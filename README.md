@@ -1,1 +1,1 @@
-# ES-DETECT.github.io
+# AntiCopyPaster
