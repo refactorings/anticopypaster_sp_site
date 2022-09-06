@@ -1,1 +1,1 @@
-# TS-DETECT.github.io
+# ES-DETECT.github.io
