@@ -5,6 +5,7 @@ import {
 } from "react-router-dom";
 import Links from "./Links";
 import Home from "./Home";
+import Team from "./Team";
 import {Fragment} from 'react';
 import Navbar from './components/Navbar';
 
@@ -17,6 +18,8 @@ const App = () => {
               <Route exact path='/' element={<Home/>}>
               </Route>
               <Route exact path="/links" element={<Links/>}>
+              </Route>
+              <Route exact path="/team" element={<Team/>}>
               </Route>
           </Routes>
         </Fragment>
