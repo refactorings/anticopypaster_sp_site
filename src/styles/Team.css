@@ -1,0 +1,13 @@
+.TeamBlock {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.CoachBlock {
+    margin-top: 1rem;
+    border: 2px black;
+}
+
+.TeammateBlock {
+    margin-top: 1rem;
+}
