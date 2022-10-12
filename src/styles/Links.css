@@ -10,8 +10,10 @@
 .SheetStyle {
     display: block;
     width: 100%;
-    height: 400px;
+    height: 600px;
     align-items: center;
     align-content: center;
     align-self: center;
+    padding: 1re;
+    margin: 1re;
 }

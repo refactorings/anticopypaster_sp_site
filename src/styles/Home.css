@@ -1,4 +1,32 @@
 .Home {
     margin: 1rem;
     padding: 1rem;
+    align-items: center;
+    /* background-color: #FCBACB; */
+}
+
+.SynopsisBlock {
+    margin: 1rem;
+    padding: 1rem;
+    background-color: aliceblue;
+    border-radius: 25px;
+    width: 95%;
+}
+
+.TimelineBlock {
+    margin: 1rem;
+    padding: 1rem;
+    background-color: aliceblue;
+    border-radius: 25px;
+    width: 95%;
+    display: inline-flex;
+}
+
+.FeatureBlock {
+    display: inline-flex;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: skyblue;
+    border-radius: 25px;
+    width: 95%;
 }

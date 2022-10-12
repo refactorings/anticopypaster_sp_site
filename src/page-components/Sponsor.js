@@ -1,4 +1,4 @@
-import './styles/Sponsor.css';
+import '../styles/Sponsor.css';
 
 function Sponsor() {
     return (

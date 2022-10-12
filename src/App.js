@@ -3,14 +3,14 @@ import {
   Routes,
   Route
 } from "react-router-dom";
-import Documentation from "./Documentation";
-import Home from "./Home";
-import Team from "./Team";
-import Sponsor from "./Sponsor"
+import Documentation from "./page-components/Documentation";
+import Home from "./page-components/Home";
+import Team from "./page-components/Team";
+import Sponsor from "./page-components/Sponsor"
 import {Fragment} from 'react';
-import Navbar from './components/Navbar';
-import FourUps from "./FourUps";
-import TimeTracking from "./TimeTracking";
+import Navbar from './page-components/Navbar';
+import FourUps from "./page-components/FourUps";
+import TimeTracking from "./page-components/TimeTracking";
 
 const App = () => {
   return(

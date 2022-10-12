@@ -1,4 +1,13 @@
 .DocumentationBlock {
     margin: 1rem;
     padding: 1rem;
+    background-color: aliceblue;
+    border-radius: 25px;
+    width: 25%;
+}
+
+.DocumentationLinkStyling {
+    display: block;
+    color: black;
+    text-decoration: underline;
 }

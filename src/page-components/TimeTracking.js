@@ -1,4 +1,4 @@
-import './styles/Links.css';
+import '../styles/Links.css';
 
 function TimeTracking() {
     return (
