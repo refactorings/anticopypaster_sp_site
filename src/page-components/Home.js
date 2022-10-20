@@ -20,13 +20,13 @@ function Home() {
         <div className='TimelineBlock'>
             <h3>Project Timeline:</h3>
             <div className='FeatureBlock'>
-                <p>Feature 1</p>
+                <p>Metrics Model Plan</p>
             </div>
             <div className='FeatureBlock'>
-                <p>Feature 2</p>
+                <p>Backend Metrics Model</p>
             </div>
             <div className='FeatureBlock'>
-                <p>Feature 3</p>
+                <p>Functioning Metrics Menu</p>
             </div>
         </div>
     </div>
