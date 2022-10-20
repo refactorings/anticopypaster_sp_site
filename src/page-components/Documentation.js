@@ -8,6 +8,7 @@ function Documentation() {
                 <a className='DocumentationLinkStyling' href="https://docs.google.com/document/d/1MjN8cIFJxX2y1wPUVOCOWonoWTahiBIBZIv2SXpesTc/edit?usp=sharing">Our Final Plan</a> <br/>
                 <a className='DocumentationLinkStyling' href="https://docs.google.com/document/d/1PI0WF8ciA6L70ifxCM2B5onAWbS4awFqExqZKKp-aHE/edit?usp=sharing">Our Project Tools and Technologies</a> <br/>
                 <a className='DocumentationLinkStyling' href="https://docs.google.com/document/d/1vXMzqkiCJqForGTieC9HzBNU_UvUXssrsETK0HIMdcs/edit?usp=sharing">Development Methodology</a> <br />
+                <a className='DocumentationLinkStyling' href="https://docs.google.com/document/d/1PmQkkRlkUVlk8fIbh6w7K39vR3y9Kr3awKSRQQIWKlk/edit?usp=sharing">Metrics Model</a> <br />
                 <a className='DocumentationLinkStyling' href="https://drive.google.com/file/d/11J2y3Fqx97AoB4LBqONpsVgWrMAPAUBU/view?usp=sharing">Wireframes</a> <br />
                 <a className='DocumentationLinkStyling' href="https://drive.google.com/file/d/1fJ87U72qAxtplVoTRQVguHSlRLf9X4nm/view?usp=sharing">UML Diagram</a>
             </div>
