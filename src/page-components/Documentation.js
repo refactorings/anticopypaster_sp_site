@@ -10,7 +10,7 @@ function Documentation() {
                 <a className='DocumentationLinkStyling' href="https://docs.google.com/document/d/1vXMzqkiCJqForGTieC9HzBNU_UvUXssrsETK0HIMdcs/edit?usp=sharing">Development Methodology</a> <br />
                 <a className='DocumentationLinkStyling' href="https://docs.google.com/document/d/1PmQkkRlkUVlk8fIbh6w7K39vR3y9Kr3awKSRQQIWKlk/edit?usp=sharing">Metrics Model</a> <br />
                 <a className='DocumentationLinkStyling' href="https://drive.google.com/file/d/11J2y3Fqx97AoB4LBqONpsVgWrMAPAUBU/view?usp=sharing">Wireframes</a> <br />
-                <a className='DocumentationLinkStyling' href="https://drive.google.com/file/d/1fJ87U72qAxtplVoTRQVguHSlRLf9X4nm/view?usp=sharing">UML Diagram</a>
+                <a className='DocumentationLinkStyling' href="https://drive.google.com/file/d/1fJ87U72qAxtplVoTRQVguHSlRLf9X4nm/view?usp=sharing">UML Diagram</a> <br />
                 <a className='DocumentationLinkStyling' href="https://docs.google.com/document/d/1eDYSmdQ1mk26TYgQa8wtxAfeu77ZFJJS7wr-kB5ctbw/edit?usp=sharing">Metrics Accessing</a>
             </div>
 
