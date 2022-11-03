@@ -15,6 +15,7 @@ function Documentation() {
 
             <div className='DocumentationBlock'>
                 <h3>Meeting Agendas:</h3>
+                <a className='DocumentationLinkStyling' href="https://docs.google.com/document/d/19y57AXoAMbc-9vJ0rvvg2F95E46WYnb94QGv_yxzoG4/edit?usp=sharing">11/3/2022</a><br />
                 <a className='DocumentationLinkStyling' href="https://docs.google.com/document/d/1wfgESSq1hSqltaoyY5nvYij4RNrBp4M6SIkl03c8s08/edit?usp=sharing">10/20/2022</a><br />
                 <a className='DocumentationLinkStyling' href="https://docs.google.com/document/d/1f-az5Ein_bkNgphAl3EXZ32KcNvKrDJTcpoM9uU5eMk/edit?usp=sharing">10/6/2022</a><br />
                 <a className='DocumentationLinkStyling' href="https://docs.google.com/document/d/1ZSnfqUxowGJcSabjp3dl5CW-auqA3xlHIACWLrAZVVE/edit?usp=sharing">9/29/2022</a><br />

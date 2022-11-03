@@ -3,14 +3,24 @@
     padding: 1rem;
     background-color: aliceblue;
     border-radius: 25px;
-    width: 25%;
+    width: 59%;
+    align-items: center;
+    align-self: center;
+    align-content: center;
 }
 
 .CoachBlock {
     margin-top: 1rem;
     border: 2px black;
+    align-items: center;
+    align-self: center;
+    align-content: center;
 }
 
 .TeammateBlock {
-    margin-top: 1rem;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: aliceblue;
+    border-radius: 25px;
+    width: 25%;
 }
