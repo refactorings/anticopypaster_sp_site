@@ -20,7 +20,7 @@ function Home() {
         <div className='TimelineBlock'>
             <h3>Project Timeline:</h3>
             <div className='FeatureBlock'>
-                <p>Metrics Model Plan</p>
+            <a className='DocumentationLinkStyling' href="https://docs.google.com/document/d/1eDYSmdQ1mk26TYgQa8wtxAfeu77ZFJJS7wr-kB5ctbw/edit?usp=sharing">Metrics Model Plan</a>
             </div>
             <div className='FeatureBlock'>
                 <p>Backend Metrics Model</p>
