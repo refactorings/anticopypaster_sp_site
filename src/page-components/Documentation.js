@@ -4,7 +4,7 @@ function Documentation() {
     return (
         <div>
             <div className='DocumentationBlock'>
-                <h3>Project Documentation:</h3>
+                <h3 class="font-medium leading-tight text-3xl mt-0 mb-2 text-blue-600">Project Documentation:</h3><br />
                 <a className='DocumentationLinkStyling' href="https://docs.google.com/document/d/1MjN8cIFJxX2y1wPUVOCOWonoWTahiBIBZIv2SXpesTc/edit?usp=sharing">Our Final Plan</a> <br/>
                 <a className='DocumentationLinkStyling' href="https://docs.google.com/document/d/1PI0WF8ciA6L70ifxCM2B5onAWbS4awFqExqZKKp-aHE/edit?usp=sharing">Our Project Tools and Technologies</a> <br/>
                 <a className='DocumentationLinkStyling' href="https://docs.google.com/document/d/1vXMzqkiCJqForGTieC9HzBNU_UvUXssrsETK0HIMdcs/edit?usp=sharing">Development Methodology</a> <br />
@@ -15,7 +15,9 @@ function Documentation() {
             </div>
 
             <div className='DocumentationBlock'>
-                <h3>Meeting Agendas:</h3>
+                <h3 class="font-medium leading-tight text-3xl mt-0 mb-2 text-blue-600">Meeting Agendas:</h3><br />
+                <a className='DocumentationLinkStyling' href="https://docs.google.com/document/d/1f5UGFBcfumoDvS3jtTGm_HwVkRvWI_kJALlLT71xI1Y/edit?usp=sharing">11/17/2022</a><br />
+                <a className='DocumentationLinkStyling' href="https://docs.google.com/document/d/1LlIXf86P5oYf6G8mZMzKhWTlcS3-s8oqFzZ6U5NQO4g/edit?usp=sharing">11/10/2022</a><br />
                 <a className='DocumentationLinkStyling' href="https://docs.google.com/document/d/19y57AXoAMbc-9vJ0rvvg2F95E46WYnb94QGv_yxzoG4/edit?usp=sharing">11/3/2022</a><br />
                 <a className='DocumentationLinkStyling' href="https://docs.google.com/document/d/1wfgESSq1hSqltaoyY5nvYij4RNrBp4M6SIkl03c8s08/edit?usp=sharing">10/20/2022</a><br />
                 <a className='DocumentationLinkStyling' href="https://docs.google.com/document/d/1f-az5Ein_bkNgphAl3EXZ32KcNvKrDJTcpoM9uU5eMk/edit?usp=sharing">10/6/2022</a><br />
