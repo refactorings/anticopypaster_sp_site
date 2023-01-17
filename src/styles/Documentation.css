@@ -1,15 +1,21 @@
 .DocumentationBlock {
-    margin: 1rem;
-    padding: 1rem;
+    margin: 2%;
+    padding: 1%;
     background-color: aliceblue;
     border-radius: 25px;
-    width: 25%;
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
 }
 
 .DocumentationLinkStyling {
     display: block;
     color: black;
     text-decoration: underline;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
 }
 
 /* If the screen size is 1200px wide or more, set the font-size to 80px */

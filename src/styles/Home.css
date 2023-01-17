@@ -7,27 +7,55 @@
 
 .SynopsisBlock {
     margin: 1rem;
+    border-color: black;
+    border-width: medium;
+    background-color: #88bef5;
     padding: 1rem;
-    background-color: aliceblue;
     border-radius: 25px;
     width: 95%;
 }
 
 .TimelineBlock {
     margin: 1rem;
-    padding: 1rem;
-    background-color: aliceblue;
+    border-color: black;
+    border-width: medium;
+    background-color: #88bef5;
     border-radius: 25px;
+    padding: 1rem;
     width: 95%;
-    display: inline-flex;
+    display: flex row;
 }
 
-.FeatureBlock {
+.MetricsModelPlanBlock {
     display: inline-flex;
     margin: 1rem;
-    padding: 1rem;
-    background-color: skyblue;
+    border-color: black;
+    border-width: medium;
     border-radius: 25px;
+    padding: 1rem;
+    background-color: #f0a2b1;
+    width: 95%;
+}
+
+.BackendMetricsModelBlock {
+    display: inline-flex;
+    margin: 1rem;
+    border-color: black;
+    border-width: medium;
+    border-radius: 25px;
+    padding: 1rem;
+    background-color: #b491c8;
+    width: 95%;
+}
+
+.FunctioningMetricsMenuBlock {
+    display: inline-flex;
+    margin: 1rem;
+    border-color: black;
+    border-width: medium;
+    border-radius: 25px;
+    padding: 1rem;
+    background-color: #fcbd85;
     width: 95%;
 }
 
@@ -35,4 +63,5 @@
     display: block;
     color: black;
     text-decoration: underline;
+    font-size: medium;
 }

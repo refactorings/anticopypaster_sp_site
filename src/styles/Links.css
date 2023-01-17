@@ -17,3 +17,12 @@
     padding: 1re;
     margin: 1re;
 }
+
+.DocStyle {
+    display: block;
+    width: 45%;
+    height: 600px;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}

@@ -5,7 +5,7 @@ import {  Link } from "react-router-dom";
 
 const linkStyle = {
     display: "block",
-    color: "white",
+    color: "aliceblue",
     padding: "14px 16px",
     textDecoration: "none",
     textAlign: "center"
