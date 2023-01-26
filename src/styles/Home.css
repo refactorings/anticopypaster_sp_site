@@ -1,6 +1,7 @@
 .Home {
     margin: 1rem;
     padding: 1rem;
+    display: flexbox;
     align-items: center;
     /* background-color: #FCBACB; */
 }
@@ -10,8 +11,8 @@
     border-color: black;
     border-width: medium;
     background-color: #88bef5;
-    padding: 1rem;
     border-radius: 25px;
+    padding: 1rem;
     width: 95%;
 }
 
@@ -23,7 +24,7 @@
     border-radius: 25px;
     padding: 1rem;
     width: 95%;
-    display: flex row;
+    display: inline-block;
 }
 
 .MetricsModelPlanBlock {
