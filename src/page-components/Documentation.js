@@ -5,34 +5,34 @@ function Documentation() {
     return (
         <div className="flex">
             <div className='m-4 p-4 items-center flex-col flex-grow'>
-                <h3 className="font-medium leading-tight text-2xl m-2 text-black">Project Documentation:</h3>
+                <h3 className="font-medium leading-tight text-2xl m-2 text-black mb-8">Project Documentation:</h3>
                 
-                <a className='font-medium leading-tight text-xl m-6' href="https://docs.google.com/document/d/1MjN8cIFJxX2y1wPUVOCOWonoWTahiBIBZIv2SXpesTc/edit?usp=sharing">Build Requirements</a>
-                <iframe title="Build Requirements" className="DocStyle" src="https://docs.google.com/document/d/e/2PACX-1vTyUui9sk4z22POo2WYV1Z4gI0CptJGfszDNSQtHOafK6657Mo5uIjAYAscrzwbAgf512XjxjfsYxG_/pub?embedded=true"></iframe>
+                <a className='font-medium leading-tight text-xl m-6 mt-8' href="https://docs.google.com/document/d/1MjN8cIFJxX2y1wPUVOCOWonoWTahiBIBZIv2SXpesTc/edit?usp=sharing">Build Requirements</a>
+                <iframe title="Build Requirements" className="DocStyle m-6 mt-8 mb-4 border-l-4 pl-4" src="https://docs.google.com/document/d/e/2PACX-1vTyUui9sk4z22POo2WYV1Z4gI0CptJGfszDNSQtHOafK6657Mo5uIjAYAscrzwbAgf512XjxjfsYxG_/pub?embedded=true"></iframe>
                 
-                <a className='font-medium leading-tight text-xl m-6' href="https://docs.google.com/document/d/1MjN8cIFJxX2y1wPUVOCOWonoWTahiBIBZIv2SXpesTc/edit?usp=sharing">Semester Update Document</a>
-                <iframe title="semesterUpdateDoc" className="DocStyle" src="https://docs.google.com/document/d/e/2PACX-1vSDmJSc10a7TiHnt1JqP8Vd56BqSUNgoyUE2i45ZDIdVGddz8VLzLdaqb0i1sOux4PYhMVyryOd0QIu/pub?embedded=true"></iframe>
+                <a className='font-medium leading-tight text-xl m-6 mt-8' href="https://docs.google.com/document/d/1MjN8cIFJxX2y1wPUVOCOWonoWTahiBIBZIv2SXpesTc/edit?usp=sharing">Semester Update Document</a>
+                <iframe title="semesterUpdateDoc" className="DocStyle m-6 mt-8 mb-4 border-l-4 pl-4" src="https://docs.google.com/document/d/e/2PACX-1vSDmJSc10a7TiHnt1JqP8Vd56BqSUNgoyUE2i45ZDIdVGddz8VLzLdaqb0i1sOux4PYhMVyryOd0QIu/pub?embedded=true"></iframe>
                 
-                <a className='font-medium leading-tight text-xl m-6' href="https://docs.google.com/document/d/1MjN8cIFJxX2y1wPUVOCOWonoWTahiBIBZIv2SXpesTc/edit?usp=sharing">Our Final Plan</a>
-                <iframe title="finalPlanDoc" className="DocStyle" src="https://docs.google.com/document/d/e/2PACX-1vR85m3AgLCHR9M6-wOtBcUtTyeSspjiaomCagURzsiJRpeizruDs3_WkSkU_811Ud7xVBIvdNyhmZcU/pub?embedded=true"></iframe>
+                <a className='font-medium leading-tight text-xl m-6 mt-8' href="https://docs.google.com/document/d/1MjN8cIFJxX2y1wPUVOCOWonoWTahiBIBZIv2SXpesTc/edit?usp=sharing">Our Final Plan</a>
+                <iframe title="finalPlanDoc" className="DocStyle m-6 mt-8 mb-4 border-l-4 pl-4" src="https://docs.google.com/document/d/e/2PACX-1vR85m3AgLCHR9M6-wOtBcUtTyeSspjiaomCagURzsiJRpeizruDs3_WkSkU_811Ud7xVBIvdNyhmZcU/pub?embedded=true"></iframe>
                 
-                <a className='font-medium leading-tight text-xl m-6' href="https://docs.google.com/document/d/1PI0WF8ciA6L70ifxCM2B5onAWbS4awFqExqZKKp-aHE/edit?usp=sharing">Our Project Tools and Technologies</a>
-                <iframe title="toolsAndTechniquesDoc" className="DocStyle" src="https://docs.google.com/document/d/e/2PACX-1vSEbRSYswsEt7SzcOlcuK2pqLqeWwJP2hZsemvAJ9dceJlhTHzolr1IDiTVgSMTVMYaPsiQ0xQuUtY2/pub?embedded=true"></iframe>
+                <a className='font-medium leading-tight text-xl m-6 mt-8' href="https://docs.google.com/document/d/1PI0WF8ciA6L70ifxCM2B5onAWbS4awFqExqZKKp-aHE/edit?usp=sharing">Our Project Tools and Technologies</a>
+                <iframe title="toolsAndTechniquesDoc" className="DocStyle m-6  mt-8 mb-4 border-l-4 pl-4" src="https://docs.google.com/document/d/e/2PACX-1vSEbRSYswsEt7SzcOlcuK2pqLqeWwJP2hZsemvAJ9dceJlhTHzolr1IDiTVgSMTVMYaPsiQ0xQuUtY2/pub?embedded=true"></iframe>
                 
-                <a className='font-medium leading-tight text-xl m-6' href="https://docs.google.com/document/d/1vXMzqkiCJqForGTieC9HzBNU_UvUXssrsETK0HIMdcs/edit?usp=sharing">Development Methodology</a> 
-                <iframe title="devMethodologyDoc" className="DocStyle" src="https://docs.google.com/document/d/e/2PACX-1vRvPdUD9LFh27tnAi8R_9QndGYS_HOyLfrzIno_wNznu7NtPSZtHEgjPQ5z6RXVa1G31j174vXwA6VQ/pub?embedded=true"></iframe>      
+                <a className='font-medium leading-tight text-xl m-6 mt-8' href="https://docs.google.com/document/d/1vXMzqkiCJqForGTieC9HzBNU_UvUXssrsETK0HIMdcs/edit?usp=sharing">Development Methodology</a> 
+                <iframe title="devMethodologyDoc" className="DocStyle m-6 mt-8 mb-4 border-l-4 pl-4" src="https://docs.google.com/document/d/e/2PACX-1vRvPdUD9LFh27tnAi8R_9QndGYS_HOyLfrzIno_wNznu7NtPSZtHEgjPQ5z6RXVa1G31j174vXwA6VQ/pub?embedded=true"></iframe>      
                 
-                <a className='font-medium leading-tight text-xl m-6' href="https://docs.google.com/document/d/1PmQkkRlkUVlk8fIbh6w7K39vR3y9Kr3awKSRQQIWKlk/edit?usp=sharing">Metrics Model</a> 
-                <iframe title="metricsModelDoc" className="DocStyle" src="https://docs.google.com/document/d/e/2PACX-1vRgYFy2o7rQv3plTGWXgY7zR0N_gu3MNQ4U-TvtUm4CtoKTlN2GjB45LeVN4diA6e5rB5ZUDm5RMNYM/pub?embedded=true"></iframe>
+                <a className='font-medium leading-tight text-xl m-6 mt-8' href="https://docs.google.com/document/d/1PmQkkRlkUVlk8fIbh6w7K39vR3y9Kr3awKSRQQIWKlk/edit?usp=sharing">Metrics Model</a> 
+                <iframe title="metricsModelDoc" className="DocStyle m-6 mt-8 mb-4 border-l-4 pl-4" src="https://docs.google.com/document/d/e/2PACX-1vRgYFy2o7rQv3plTGWXgY7zR0N_gu3MNQ4U-TvtUm4CtoKTlN2GjB45LeVN4diA6e5rB5ZUDm5RMNYM/pub?embedded=true"></iframe>
                 
-                <a className='font-medium leading-tight text-xl m-6' href="https://drive.google.com/file/d/11J2y3Fqx97AoB4LBqONpsVgWrMAPAUBU/view?usp=sharing">Wireframes</a> 
-                <iframe title="wireframesDoc" className="DocStyle" src="https://drive.google.com/file/d/11J2y3Fqx97AoB4LBqONpsVgWrMAPAUBU/preview" width="640" height="480" allow="autoplay"></iframe>
+                <a className='font-medium leading-tight text-xl m-6 mt-8' href="https://drive.google.com/file/d/11J2y3Fqx97AoB4LBqONpsVgWrMAPAUBU/view?usp=sharing">Wireframes</a> 
+                <iframe title="wireframesDoc" className="DocStyle m-6 mt-8 mb-4 border-l-4 pl-4" src="https://drive.google.com/file/d/11J2y3Fqx97AoB4LBqONpsVgWrMAPAUBU/preview" width="640" height="480" allow="autoplay"></iframe>
                 
-                <a className='font-medium leading-tight text-xl m-6' href="https://drive.google.com/file/d/1fJ87U72qAxtplVoTRQVguHSlRLf9X4nm/view?usp=sharing">UML Diagram</a> 
-                <iframe title="umlDoc" className="DocStyle" src="https://drive.google.com/file/d/1fJ87U72qAxtplVoTRQVguHSlRLf9X4nm/preview" width="640" height="480" allow="autoplay"></iframe>
+                <a className='font-medium leading-tight text-xl m-6 mt-8' href="https://drive.google.com/file/d/1fJ87U72qAxtplVoTRQVguHSlRLf9X4nm/view?usp=sharing">UML Diagram</a> 
+                <iframe title="umlDoc" className="DocStyle m-6 mt-8 mb-4 border-l-4 pl-4" src="https://drive.google.com/file/d/1fJ87U72qAxtplVoTRQVguHSlRLf9X4nm/preview" width="640" height="480" allow="autoplay"></iframe>
                 
-                <a className='font-medium leading-tight text-xl m-6' href="https://docs.google.com/document/d/1eDYSmdQ1mk26TYgQa8wtxAfeu77ZFJJS7wr-kB5ctbw/edit?usp=sharing">Metrics Accessing</a>
-                <iframe title="metricsAccessingDoc" className="DocStyle" src="https://docs.google.com/document/d/e/2PACX-1vQl3sEihCur8JUmpMKfXaWAzVAjtiS9qp-NWhHQjRcxH0tBSHiMBPN7A5112uRr-GalPV1hR89N3kZb/pub?embedded=true"></iframe>
+                <a className='font-medium leading-tight text-xl m-6 mt-8' href="https://docs.google.com/document/d/1eDYSmdQ1mk26TYgQa8wtxAfeu77ZFJJS7wr-kB5ctbw/edit?usp=sharing">Metrics Accessing</a>
+                <iframe title="metricsAccessingDoc" className="DocStyle m-6 mt-8 mb-4 border-l-4 pl-4" src="https://docs.google.com/document/d/e/2PACX-1vQl3sEihCur8JUmpMKfXaWAzVAjtiS9qp-NWhHQjRcxH0tBSHiMBPN7A5112uRr-GalPV1hR89N3kZb/pub?embedded=true"></iframe>
             </div>
 
             <div className='m-4 p-4 items-center flex-col flex-shrink'>
