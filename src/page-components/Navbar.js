@@ -3,14 +3,6 @@ import '../styles/Navbar.css';
 import {  Link } from "react-router-dom";
 
 
-const linkStyle = {
-    display: "block",
-    color: "aliceblue",
-    padding: "14px 16px",
-    textDecoration: "none",
-    textAlign: "center"
-}
-
 const navbar= () =>{
   return (
   <ul className="UL">
