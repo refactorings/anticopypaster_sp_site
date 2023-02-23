@@ -1,0 +1,42 @@
+.Navbar {
+    width: 100%;
+    height: 4em;
+    margin: 1em;
+    background-color: red;
+    display: inline;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.NavItem {
+    background-color: red;
+    display: inline;
+    flex-direction: row;
+    align-items: flex-start;
+    margin: 1em;
+    font-size: x-large;
+}
+
+.UL {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #3B4C5C;
+}
+
+.ListItem {
+  float: left;
+}
+
+.LinkStyle {
+  display: block;
+  color: aliceblue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.ListItem:hover .LinkStyle {
+  color: #90BBE1;
+}
