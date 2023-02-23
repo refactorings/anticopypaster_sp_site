@@ -60,7 +60,7 @@
 }
 
 .DocumentationLinkStyling {
-    display: block;
+    display: block;  
     color: black;
     text-decoration: underline;
     font-size: medium;
