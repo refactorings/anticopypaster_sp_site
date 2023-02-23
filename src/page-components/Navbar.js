@@ -15,22 +15,22 @@ const navbar= () =>{
   return (
   <ul className="UL">
     <li className="ListItem">
-      <Link to="/anticopypaster/" style={linkStyle}>Home</Link>
+      <Link to="/anticopypaster/" className="LinkStyle">Home</Link>
     </li>
     <li className="ListItem">
-      <Link to="/anticopypaster/Documentation" style={linkStyle}>Documentation</Link>
+      <Link to="/anticopypaster/Documentation" className="LinkStyle">Documentation</Link>
     </li>
     <li className="ListItem">
-      <Link to="/anticopypaster/FourUps" style={linkStyle}>Four Ups</Link>
+      <Link to="/anticopypaster/FourUps" className="LinkStyle">Four Ups</Link>
     </li>
     <li className="ListItem">
-      <Link to="/anticopypaster/TimeTracking" style={linkStyle}>Time Tracking</Link>
+      <Link to="/anticopypaster/TimeTracking" className="LinkStyle">Time Tracking</Link>
     </li>
     <li className="ListItem">
-      <Link to="/anticopypaster/Team" style={linkStyle}>Team</Link>
+      <Link to="/anticopypaster/Team" className="LinkStyle">Team</Link>
     </li>
     <li className="ListItem">
-      <Link to="/anticopypaster/Sponsor" style={linkStyle}>Sponsor</Link>
+      <Link to="/anticopypaster/Sponsor" className="LinkStyle">Sponsor</Link>
     </li>
   </ul>
   );

@@ -22,7 +22,7 @@
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: black;
+  background-color: #3B4C5C;
 }
 
 .ListItem {
@@ -35,4 +35,8 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+}
+
+.ListItem:hover .LinkStyle {
+  color: #90BBE1;
 }

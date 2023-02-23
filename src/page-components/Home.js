@@ -6,7 +6,7 @@ function Home() {
     <div className='Home'>
         {/* TITLE */}
         <div>
-            <h3 className="font-medium leading-tight text-3xl mt-0 mb-8 text-black">AntiCopyPaster: Duplicate Code IntelliJ Plugin</h3>
+            <h3 className="font-medium leading-tight text-3xl mt-0 mb-8 text-zinc-400">AntiCopyPaster: Duplicate Code IntelliJ Plugin</h3>
         </div>
 
         <div className="inline-flex">
