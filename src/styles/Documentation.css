@@ -1,0 +1,35 @@
+.DocumentationBlock {
+    margin: 2%;
+    padding: 1%;
+    background-color: aliceblue;
+    border-color: black;
+    border-width: medium;
+    background-color: #88bef5;
+    border-radius: 25px;
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.DocumentationLinkStyling {
+    display: block;
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+/* If the screen size is 1200px wide or more, set the font-size to 80px */
+@media (min-width: 1200px) {
+    .responsive-font {
+      font-size: 80px;
+    }
+  }
+  /* If the screen size is smaller than 1200px, set the font-size to 80px */
+  @media (max-width: 1199.98px) {
+    .responsive-font {
+      font-size: 30px;
+    }
+  }
