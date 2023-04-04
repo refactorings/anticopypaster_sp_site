@@ -54,6 +54,7 @@ function Documentation() {
                         <a className='font-medium leading-tight text-l m-2' href="https://docs.google.com/document/d/1a8ccXxpQ15gqm1jsXB9vKBfwT1YkFwsxW81hgVAI4vk/edit?usp=sharing">Metrics Calculations</a><br />
                         <a className='font-medium leading-tight text-l m-2' href="https://docs.google.com/document/d/1tQp9RLzKaE1oRlwub58oMFZoahvI8CQHtQcn3zMWvzw/edit?usp=sharing">How To Get Metrics</a><br />
                         <a className='font-medium leading-tight text-l m-2' href="https://docs.google.com/document/d/1i7wQCCdR3C0Ga0VQC8QQtTVMVHNVV6MjHmFS7SDzmig/edit?usp=sharing">Product Metrics</a><br />
+                        <a className='font-medium leading-tight text-l m-2' href="https://docs.google.com/spreadsheets/d/1CtILEFpBqZKo2zFkn2WRNSQSE4iKI-r1ZC8O4G5NFvA/edit?usp=sharing">Product Metrics (Spreadsheet)</a><br />
                     </div>
                 </div>
 
