@@ -1,8 +1,8 @@
 {
-  "name": "anticopypaster",
+  "name": "anticopypaster_sp_site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mrw6863.github.io/anticopypaster/",
+  "homepage": "https://refactorings.github.io/anticopypaster_sp_site/",
   "dependencies": {
     "@headlessui/react": "^1.7.4",
     "@heroicons/react": "^2.0.13",
