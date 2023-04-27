@@ -1,4 +1,5 @@
 import '../styles/Team.css';
+import team from '../TEAM.jpg';
 
 function Team() {
     return (
@@ -15,9 +16,14 @@ function Team() {
 
             <div className='m-2'>
                 <h3 className="font-medium leading-tight text-xl m-2 text-zinc-600 ">Project Team:</h3>
+                {/* PROJECT TEAM PICTURE */}
+                <div className='m-4 p-4'>
+                    <img src={team} alt="Senior Project Team"></img>
+                </div>
+                {/* PROJECT TEAM BIOS */}
                 <div className='m-4'>
-                    <p className="text-m m-2"><b className='text-zinc-600'>Payton Hall:</b> <i>Communications Lead</i> <a href="mailto: pch3549@rit.edu">pch3549@rit.edu</a></p>
-                    <p className="text-s m-2 border-l-4 pl-4 text-zinc-600">Hello everyone! My name is Payton Hall and I am the communications lead for our senior project team. This role entails any and all communication with our sponsor so if you have any questions feel free to reach out. A little about myself I have previously cooped at Paychex and L3Harris Technologies and plan to return to L3Harris after my last year here at RIT. I could not be more excited to be working on this project and I cannot wait to get to meet all of you!</p>
+                    <p className="text-m m-2"><b className='text-zinc-600'>Morgan West: </b> <i>Website Manager</i> <a href="mailto: mrw6863@rit.edu">mrw6863@rit.edu</a></p>
+                    <p className="text-s m-2 border-l-4 pl-4 text-zinc-600">Hello! My name is Morgan West and I am the website manager and front-end developer for our senior project team. I’ll be responsible for uploading all of our documentation to the website and keeping it up to date. Let me know if you have any feedback as I’m looking to grow my skills as a web developer! A little about me is that I co-oped for a year and a half at Blackbaud doing frontend engineering and automated testing on the GrantsConnect and NPOConnect team. I’m so excited to work on this project and learn more about plugin development!</p>
                 </div>
                 <div className='m-4'>
                     <p className="text-m m-2"><b className='text-zinc-600'>Trey Pachucki: </b> <i>Tech Lead</i> <a href="mailto: ttp2542@rit.edu">ttp2542@rit.edu</a></p>
@@ -28,8 +34,8 @@ function Team() {
                     <p className="text-s m-2 border-l-4 pl-4 text-zinc-600">Hello, I'm Tyler Pauly and I'll be the Scrum Master of our senior project. This will mainly consist of organizing stories/Scrum meetings and making sure everyone is on track during our sprints. I've also worked at Paychex, but I'm still working there part time during this year and will go back to full time after graduation. I'm very exited to work on this plugin and get to know all of you</p>
                 </div>
                 <div className='m-4'>
-                    <p className="text-m m-2"><b className='text-zinc-600'>Morgan West: </b> <i>Website Manager</i> <a href="mailto: mrw6863@rit.edu">mrw6863@rit.edu</a></p>
-                    <p className="text-s m-2 border-l-4 pl-4 text-zinc-600">Hello! My name is Morgan West and I am the website manager and front-end developer for our senior project team. I’ll be responsible for uploading all of our documentation to the website and keeping it up to date. Let me know if you have any feedback as I’m looking to grow my skills as a web developer! A little about me is that I co-oped for a year and a half at Blackbaud doing frontend engineering and automated testing on the GrantsConnect and NPOConnect team. I’m so excited to work on this project and learn more about plugin development!</p>
+                    <p className="text-m m-2"><b className='text-zinc-600'>Payton Hall:</b> <i>Communications Lead</i> <a href="mailto: pch3549@rit.edu">pch3549@rit.edu</a></p>
+                    <p className="text-s m-2 border-l-4 pl-4 text-zinc-600">Hello everyone! My name is Payton Hall and I am the communications lead for our senior project team. This role entails any and all communication with our sponsor so if you have any questions feel free to reach out. A little about myself I have previously cooped at Paychex and L3Harris Technologies and plan to return to L3Harris after my last year here at RIT. I could not be more excited to be working on this project and I cannot wait to get to meet all of you!</p>
                 </div>
             </div>
 

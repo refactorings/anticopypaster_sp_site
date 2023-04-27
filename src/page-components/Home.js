@@ -1,5 +1,6 @@
 import '../App.css';
 import '../styles/Home.css';
+import poster from '../SP_POSTER.png';
 
 function Home() {
   return (
@@ -9,7 +10,13 @@ function Home() {
             <h3 className="font-medium leading-tight text-3xl mt-0 mb-8 text-zinc-600">AntiCopyPaster: Duplicate Code IntelliJ Plugin</h3>
         </div>
 
-        <div className="inline-flex">
+        <div className="flexbox">
+            {/* PROJECT POSTER */}
+            <div className='m-4 p-4'>
+                <h3 className='font-medium leading-tight text-xl mt-0 mb-4 text-zinc-600'>Project Poster:</h3>
+                <img src={poster} alt="Senior Project Poster"></img>
+                <p className="border-l-4 pl-4"></p>
+            </div>
             {/* PROJECT INFORMATION */}
             <div className='m-4 p-4'>
                 <h3 className='font-medium leading-tight text-xl mt-0 mb-4 text-zinc-600'>Project Synopsis:</h3>

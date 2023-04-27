@@ -3,7 +3,7 @@ import '../styles/Links.css';
 
 function Documentation() {
     return (
-        <div className="flex">
+        <div className="flexbox">
             <div className='m-4 p-4 items-center flex-col flex-grow'>
                 <h3 className="font-medium leading-tight text-2xl m-2 text-zinc-600 mb-8">Project Deliverables:</h3>
                 
